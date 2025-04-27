@@ -1,4 +1,9 @@
 numpy
-ipywidgets
 matplotlib
+ipywidgets
 voila
+gunicorn
+jupyter
+pandas
+matplotlib
+scikit-learn
